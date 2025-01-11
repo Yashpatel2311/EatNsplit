@@ -1,8 +1,23 @@
-# React + Vite
+Split Bill App 💳
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based application to manage and split expenses with your friends. This app allows users to add friends, track balances, and evenly distribute expenses with ease.
 
-Currently, two official plugins are available:
+Features 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---> Add Friends: Add friends with their name and avatar.
+
+---> View Balances: Keep track of how much you owe or are owed by each friend.
+
+---> Split Bills: Distribute expenses between you and your selected friend.
+
+---> Dynamic Selection: Select or deselect friends for splitting bills.
+
+Usage 📝
+
+1. Add Friends: Use the "Add Friend" button to input a friend's name and avatar URL.
+
+2. View Balances: See who owes whom and by how much in the friends list.
+
+3. Split Bills: Select a friend, enter the bill details, and split the expense accordingly.
+
+4. Close Selection: Deselect friends to clear the split bill form.
